@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://neeshant-pandey.github.io/csb-drz03t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://neeshant-pandey.github.io/csb-drz03t/static/js/main.9fefe31c.chunk.js",
+    "main.js.map": "https://neeshant-pandey.github.io/csb-drz03t/static/js/main.9fefe31c.chunk.js.map",
+    "runtime-main.js": "https://neeshant-pandey.github.io/csb-drz03t/static/js/runtime-main.3cf5548a.js",
+    "runtime-main.js.map": "https://neeshant-pandey.github.io/csb-drz03t/static/js/runtime-main.3cf5548a.js.map",
+    "static/js/2.b14140f0.chunk.js": "https://neeshant-pandey.github.io/csb-drz03t/static/js/2.b14140f0.chunk.js",
+    "static/js/2.b14140f0.chunk.js.map": "https://neeshant-pandey.github.io/csb-drz03t/static/js/2.b14140f0.chunk.js.map",
+    "index.html": "https://neeshant-pandey.github.io/csb-drz03t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://neeshant-pandey.github.io/csb-drz03t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b14140f0.chunk.js.LICENSE.txt": "https://neeshant-pandey.github.io/csb-drz03t/static/js/2.b14140f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf5548a.js",
+    "static/js/2.b14140f0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.9fefe31c.chunk.js"
+  ]
+}
